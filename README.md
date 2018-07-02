@@ -1,4 +1,4 @@
-# HTL TodoMVC Example
+# AEM Webpack - HTL TodoMVC Example [ https://github.com/Adobe-Marketing-Cloud/aem-htl-sample-todomvc ]
 
 This example shows how to build components in [AEM 6+](http://www.adobe.com/go/aem) with [HTL](https://github.com/Adobe-Marketing-Cloud/htl-spec). It's a feature-complete implementation of the famous [TodoMVC](http://todomvc.com) exercise, which is traditionally meant for client-side JavaScript frameworks. This implementation though shows how such an application can easily be built in AEM and it's status persisted on the server using the Apache Sling REST framework.
 
@@ -96,10 +96,10 @@ The nodes located in the content repository at `/content/todo` are serialized in
 ## Running it
 
 * **Create package**
-  * Get the code from this Git repository, for e.g. with following command line:  
+  * Get the code from this Git repository, for e.g. with following command line:
       `git clone https://github.com/Adobe-Marketing-Cloud/aem-sample-sightly-todomvc.git`
-  * Create a ZIP file from the `src` folder, for e.g. in a Unix shell you can do:  
-      `cd aem-sample-sightly-todomvc/src`  
+  * Create a ZIP file from the `src` folder, for e.g. in a Unix shell you can do:
+      `cd aem-sample-sightly-todomvc/src`
       `zip TodoMVC.zip -r jcr_root META-INF`
 * **Start AEM**
   * Double-click on the AEM JAR to start an instance if you haven't done that already.
