@@ -1,6 +1,6 @@
 # AEM Webpack - HTL TodoMVC Example [ https://github.com/Adobe-Marketing-Cloud/aem-htl-sample-todomvc ]
 
-AEM Webpack Muli Component Compiler
+AEM - Webpack Multiple Compiler Clientlibs
 
 This example shows how to build components in [AEM 6+](http://www.adobe.com/go/aem) with [HTL](https://github.com/Adobe-Marketing-Cloud/htl-spec). It's a feature-complete implementation of the famous [TodoMVC](http://todomvc.com) exercise, which is traditionally meant for client-side JavaScript frameworks. This implementation though shows how such an application can easily be built in AEM and it's status persisted on the server using the Apache Sling REST framework.
 
