@@ -1,0 +1,13 @@
+{
+    "compilerOptions":{
+        "module": "commonjs",
+        "sourceMap": true,
+        "target": "es5",
+        "isolatedModules": true,
+        "allowUnusedLabels": true,
+        "watch": false,
+        "esModuleInterop": true,
+        "noImplicitAny": false
+
+    }
+}
